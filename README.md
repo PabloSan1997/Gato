@@ -6,7 +6,7 @@ Una aplicacion web sencilla para poder jugar gato o tic-tac-toe
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1eaRgTjMihJlxmSl7wyctnNXIRx1NeoSq/view?usp=sharing)
+![App Screenshot](https://lh3.googleusercontent.com/drive-viewer/AFDK6gPBfiP3rz53nXALqq-Mk4NFKhdt1Sj6sYRwhZp5szYqnPwmBnD4R6YeQVm4E8ugm32SOEpEO9MB8lWxJNZ1stJOUHHeOA=w1025-h643)
 
 
 ## Installation
